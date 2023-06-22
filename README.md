@@ -1,5 +1,5 @@
 ## Olá eu sou o Roberto
-- 🌱 Estudando de Analise e Desenvolvimento de Sistemas
+- 🌱 Graduação em Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: Robertojsj18@gmail.com
 <div align="center">
   <a href="https://github.com/RobertoJSJTV">
